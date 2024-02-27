@@ -1,0 +1,19 @@
+Interação - ação -> reação - comunicação - ação mutua 
+
+Acessibilidade = capacidade de um produto ser flexivel o suficiente para atender as necessidades de pessoas com deficiencia. 
+
+Interface = fronteira entre dois espaços fisicos ou logicos 
+Parte de um sistema computacional com a qual uma pesssoa ou sistema esta em contato e a partir da qual pode ativa-lo ou comanda-lo
+
+interação = processo de ação e reação realizado atraves de interface de sistemas, associado a interações e disposições dos usuarios, por um lado,
+e a logica programada no sistema ou artefato por outro lado. 
+
+UX - User experience - determina o sucesso comercial de um produto de software
+determina a produtividade dos usuarios
+determina as oportunidad de mudanças de comportamentos, praticas, crenças..
+determina a formação de grupo d usuarios que  consegum  o que nao, o que sabem ou nao, o que podem ou nao.. etc
+
+
+Uma ideia bonita nao consegue esconder uma má funcionalidade
+
+interface amigavel ao usuario facilita que ele conclua sua tarefa
